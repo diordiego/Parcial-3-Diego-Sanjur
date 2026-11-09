@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginBCrypt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f9b243ee6c28a9f85179a9fe40c9a51c84a0042")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginBCrypt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginBCrypt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

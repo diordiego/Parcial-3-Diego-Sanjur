@@ -27,3 +27,4 @@ C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\LoginBCrypt\obj\Debug\net10
 C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\LoginBCrypt\obj\Debug\net10.0-windows\LoginBCrypt.pdb
 C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\LoginBCrypt\obj\Debug\net10.0-windows\LoginBCrypt.genruntimeconfig.cache
 C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\LoginBCrypt\obj\Debug\net10.0-windows\ref\LoginBCrypt.dll
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\LoginBCrypt\obj\Debug\net10.0-windows\LoginBCrypt.sourcelink.json
