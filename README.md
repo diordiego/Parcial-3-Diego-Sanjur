@@ -136,6 +136,8 @@ Cada intento de acceso, exitoso o fallido, se registra en la tabla `intentos_log
 
 ### Inicio de sesión
 
+![Pantalla de login](capturas/p3_login.png)
+
 ![Acceso exitoso del administrador](capturas/p3_login_admin.png)
 
 ![Acceso exitoso de dsanjur](capturas/p3_login_dsanjur.png)
