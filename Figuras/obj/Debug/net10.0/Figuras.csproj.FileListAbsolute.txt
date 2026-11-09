@@ -1,0 +1,14 @@
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\Figuras\bin\Debug\net10.0\Figuras.exe
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\Figuras\bin\Debug\net10.0\Figuras.deps.json
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\Figuras\bin\Debug\net10.0\Figuras.runtimeconfig.json
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\Figuras\bin\Debug\net10.0\Figuras.dll
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\Figuras\bin\Debug\net10.0\Figuras.pdb
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\Figuras\obj\Debug\net10.0\Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\Figuras\obj\Debug\net10.0\Figuras.AssemblyInfoInputs.cache
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\Figuras\obj\Debug\net10.0\Figuras.AssemblyInfo.cs
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\Figuras\obj\Debug\net10.0\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\Figuras\obj\Debug\net10.0\Figuras.dll
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\Figuras\obj\Debug\net10.0\refint\Figuras.dll
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\Figuras\obj\Debug\net10.0\Figuras.pdb
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\Figuras\obj\Debug\net10.0\Figuras.genruntimeconfig.cache
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Parcial 3\Figuras\obj\Debug\net10.0\ref\Figuras.dll

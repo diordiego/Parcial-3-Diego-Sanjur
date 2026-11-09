@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "okCzFhs1nYM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\drsgo\\OneDrive\\Documentos\\HPA III\\Parcial 3\\JsonNewtonsoft\\JsonNewtonsoft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drsgo\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
